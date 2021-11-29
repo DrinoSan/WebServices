@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{F32ECDEB-9C8E-42F3-9AA9-130F19C8323F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="WebServices/Attributes/ApiKeyAttribute.cs">
+    <Files>
+      <File FileName="WebServices/Startup.cs" Line="18" Column="26" />
+      <File FileName="WebServices/Controllers/HomeController.cs" />
+      <File FileName="WebServices/Controllers/PriceController.cs" Line="59" Column="1" />
+      <File FileName="WebServices/Controllers/AccountController.cs" Line="92" Column="28" />
+      <File FileName="WebServices/appsettings.json" Line="1" Column="1" />
+      <File FileName="WebServices/Program.cs" Line="1" Column="1" />
+      <File FileName="WebServices/Attributes/ApiKeyAttribute.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WebServices" expanded="True">
+            <Node name="WebServices" expanded="True">
+              <Node name="Attributes" expanded="True">
+                <Node name="ApiKeyAttribute.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.WebServices PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>
